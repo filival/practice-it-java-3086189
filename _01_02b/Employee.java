@@ -37,7 +37,7 @@ public class Employee {
     int totalPayment = baseSalary + overtimePayment;
 
     // Print the totalPayment variable to the console.
-    System.out.println("The employee earned " + totalPayment + " this month.");
+    System.out.println("The employee earned " + totalPayment + " $ this month.");
 
     // Create three variables all of type double on a single line.
     // They should be called firstBonus, secondBonus and thirdBonus and they should
