@@ -10,4 +10,6 @@ public class Ticket {
   private double price;
   private boolean isReturn;
 
+  
+
 }
